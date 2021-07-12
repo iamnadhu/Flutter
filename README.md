@@ -1,4 +1,4 @@
-# Flutter - Udemy <img src="https://github.com/iamnadhu/n14-icons/blob/master/flutter-icon.png">
+# Flutter - Udemy <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/flutter-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is an 'Flutter' mobile application development workspace.
