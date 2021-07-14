@@ -1,4 +1,4 @@
-# Login UI App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Projects/Chat%20App)
+# Chat App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Projects/Chat%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
