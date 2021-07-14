@@ -1,4 +1,4 @@
-# Blog App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Advance/Swipe%20App)
+# Swipe App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Advance/Swipe%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
