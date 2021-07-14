@@ -1,54 +1,54 @@
 # Flutter [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
-This is an 'Android' mobile application development workspace.
+This is a 'Flutter' mobile application development workspace.
 
 
 ```
 This repository consist of four categories:
 
 #01. Core:
-      Basics of Android, UI Widgets, Activity, Intent & Fragment, Android Menu, Layout Manager, Adaptor, View etc...
+      Widgets, Material App, Scaffold Widget, AppBar, Floating Action Bar, Text, Container, Images, List View etc...
 
 #02. Advance:
-      Android Service, Data Storage, SQLite, XML & JSON, Cotent Provider, Android Notification, Multimedia, Speech API, Telephony API, Location API, Animation, Device Connectivity, Sensor, Android Graphics, Android P2P Communication, Android Web Services, Android Google Map, Firebase etc...
+      Stateless, Statefull Widgets, Navigator, Routes, TextField, http, JSON Parsing, Grid View, Stack, Alert Dialog, Firebase etc...
 
 #03. Projects:
       Chat Application, Shopping Cart, Restaurant App etc...
 
 #04. Extras:
-      Learning references / extras related to 'Android' mobile application development or resources used such as Udemy, Youtube, Medium etc...
+      Learning references / extras related to 'Flutter' mobile application development or resources used such as Udemy, Youtube, Medium etc...
 ```
 
 
 ### #01 Core [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/tutorials-icon.png">](https://github.com/iamnadhu/Flutter)
 >
-> [01. My First App](https://github.com/iamnadhu/Flutter/tree/master/Core/My%20First%20App)
+> [01. My First App](https://github.com/iamnadhu/Flutter/tree/main/Core/My%20First%20App)
 >
-> [02. Login UI App](https://github.com/iamnadhu/Flutter/tree/master/Core/Login%20UI%20App)
+> [02. Login UI App](https://github.com/iamnadhu/Flutter/tree/main/Core/Login%20UI%20App)
 >
 
 ### #02 Advance [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/sessions-icon.png">](https://github.com/iamnadhu/Flutter)
 >
-> [01. Touch App](https://github.com/iamnadhu/Flutter/tree/master/Advance/Touch%20App)
+> [01. Touch App](https://github.com/iamnadhu/Flutter/tree/main/Advance/Touch%20App)
 >
-> [02. Swipe App](https://github.com/iamnadhu/Flutter/tree/master/Advance/Swipe%20App)
+> [02. Swipe App](https://github.com/iamnadhu/Flutter/tree/main/Advance/Swipe%20App)
 >
 
 ### #03 Projects [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/projects-icon.png">](https://github.com/iamnadhu/Flutter)
 >
-> [01. Chat App](https://github.com/iamnadhu/Flutter/tree/master/Projects/Chat%20App)
+> [01. Chat App](https://github.com/iamnadhu/Flutter/tree/main/Projects/Chat%20App)
 >
-> [02. Shopping App](https://github.com/iamnadhu/Flutter/tree/master/Projects/Shopping%20App)
+> [02. Shopping App](https://github.com/iamnadhu/Flutter/tree/main/Projects/Shopping%20App)
 >
-> [03. Restaurant App](https://github.com/iamnadhu/Flutter/tree/master/Projects/Restaurant%20App)
+> [03. Restaurant App](https://github.com/iamnadhu/Flutter/tree/main/Projects/Restaurant%20App)
 >
-> [04. Blog App](https://github.com/iamnadhu/Flutter/tree/master/Projects/Blog%20App)
+> [04. Blog App](https://github.com/iamnadhu/Flutter/tree/main/Projects/Blog%20App)
 >
 
 ### #04 Extras [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/extras-icon.png">](https://github.com/iamnadhu/Flutter)
 >
-> [01. Udemy](https://github.com/iamnadhu/Flutter/tree/master/Extras/Udemy)
+> [01. Udemy](https://github.com/iamnadhu/Flutter/tree/main/Extras/Udemy)
 >
 
 
