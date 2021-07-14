@@ -1,8 +1,8 @@
-# My First App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Advance/My%20First%20App)
+# My First App [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Core/My%20First%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-## Project Includes [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/projects-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Advance/My%20First%20App)
+## Project Includes [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/projects-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Core/My%20First%20App)
 
 ### Components / Widgets Used:
 ```
@@ -43,5 +43,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/license-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Advance/My%20First%20App)
+## License [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/license-icon.png">](https://github.com/iamnadhu/Flutter/tree/main/Core/My%20First%20App)
 Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
