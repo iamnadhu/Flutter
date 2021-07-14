@@ -20,7 +20,7 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 ```
 
 ### Screenshots:
-![screenshot](https://github.com/iamnadhu/Flutter/tree/main/Extras/Udemy/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Flutter/blob/main/Extras/Udemy/Resources/01.jpg)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
