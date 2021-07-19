@@ -21,6 +21,7 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 ### Screenshots:
 ![screenshot](https://github.com/iamnadhu/Flutter/blob/main/Projects/Shopping%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Flutter/blob/main/Projects/Shopping%20App/Resources/02.jpg)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
